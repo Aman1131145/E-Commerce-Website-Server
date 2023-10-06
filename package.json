@@ -14,8 +14,8 @@
     "@strapi/plugin-users-permissions": "^4.13.7",
     "@strapi/provider-upload-cloudinary": "^4.13.7",
     "@strapi/strapi": "^4.13.7",
-    "better-sqlite3": "^8.6.0"
-    
+    "better-sqlite3": "^8.6.0",
+    "stripe": "^13.9.0"
   },
   "author": {
     "name": "A Strapi developer"
